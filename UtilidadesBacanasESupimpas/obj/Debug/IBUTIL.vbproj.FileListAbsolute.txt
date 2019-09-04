@@ -1,0 +1,12 @@
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\obj\Debug\IBUTIL.vbproj.GenerateResource.cache
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\obj\Debug\IBUTIL.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\obj\Debug\IBUtil.frmIBUtil.resources
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\obj\Debug\IBUtil.Resources.resources
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\bin\Debug\IBUtil.exe.config
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\bin\Debug\IBUtil.exe
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\bin\Debug\IBUtil.pdb
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\bin\Debug\IBUtil.xml
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\obj\Debug\IBUtil.exe
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\obj\Debug\IBUtil.xml
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\obj\Debug\IBUtil.pdb
+C:\Users\gabri\source\repos\WindowsApp1\WindowsApp1\obj\Debug\IBUtil.vbprojAssemblyReference.cache
